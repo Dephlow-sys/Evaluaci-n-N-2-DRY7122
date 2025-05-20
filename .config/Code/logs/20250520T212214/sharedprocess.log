@@ -1,0 +1,4 @@
+[2025-05-20 21:22:17.654] [sharedprocess] [info] main {"machineId":"0f1004c9f317ea45e0000d9428a52fcc270f3da6293ed91f672f86175ae4829a","windowId":2}
+[2025-05-20 21:22:18.454] [sharedprocess] [error] Error
+    at XMLHttpRequest.o.onerror (file:///snap/code/34/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:181:848)
+[2025-05-20 21:22:57.674] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,100 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US:
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting PWD=/home/devasc
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting LOGNAME=devasc
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/900/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/devasc
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/devasc
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting QT_DEVICE_PIXEL_RATIO=auto
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=devasc
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting PT7HOME=/opt/pt
+dbus-update-activation-environment: setting UBUNTU_MENUPROXY=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/900
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/home/devasc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+VBoxClient: error: No service specified. Quitting because nothing to do!
+VBoxClient: error: unrecognized option '--display'
+mate-session-check-accelerated: GL Helper exited with code 512
+libEGL warning: DRI2: failed to authenticate
+mate-session-check-accelerated: GLES Helper exited with code 512
+** Message: 20:06:43.759: couldn't access control socket: /run/user/900/keyring/control: No such file or directory
+mate-session[1803]: WARNING: Unable to find provider '' of required component 'dock'
+Window manager warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+Window manager warning: Log level 128: Name com.canonical.AppMenu.Registrar does not exist on the session bus
+
+
+** (process:2444): WARNING **: 20:06:44.530: could not find the desktop file for 'org.gnome.Calendar.desktop'
+VBoxClient: error: No service specified. Quitting because nothing to do!
+
+(process:2444): Indicator-Datetime-WARNING **: 20:06:44.709: Unrecognized TZID: 'Etc/UTC'
+
+(process:2444): Indicator-Datetime-WARNING **: 20:06:44.710: Unrecognized TZID: 'Etc/UTC'
+
+(process:2444): Indicator-Datetime-WARNING **: 20:06:44.732: Unrecognized TZID: 'Etc/UTC'
+VBoxClient: error: unrecognized option '--display'
+
+(process:2569): indicator-sound-WARNING **: 20:06:44.761: volume-control-pulse.vala:744: Unable to connect to dbus server at 'unix:path=/run/user/900/pulse/dbus-socket': Could not connect: No such file or directory
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(caja:2399): Gtk-WARNING **: 20:06:44.803: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+RuntimeError: object at 0x7f70db08c4c0 of type RenameMenu is not initialized
+
+(process:2444): Indicator-Datetime-WARNING **: 20:06:46.281: Unrecognized TZID: 'Etc/UTC'
+
+(process:2444): Indicator-Datetime-WARNING **: 20:06:46.282: Unrecognized TZID: 'Etc/UTC'
+
+(process:2444): Indicator-Datetime-WARNING **: 20:06:46.282: Unrecognized TZID: 'Etc/UTC'
+INFO:root:The HUD is disabled via org.mate.hud in gsettings.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x180000c (Advanced M)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x180000c (Advanced M)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 8: g_main_loop_is_running: assertion 'loop != NULL' failed
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+
+** (mate-settings-daemon:2267): WARNING **: 20:07:38.317: failed to send session response: Connection was disconnected before a reply was received
+Window manager warning: Log level 8: g_main_loop_is_running: assertion 'loop != NULL' failed
+indicator-power-Message: 20:07:38.356: exiting: service couldn't acquire or lost ownership of busname
+Indicator-Datetime-Message: 20:07:38.357: indicator-datetime exiting; failed/lost bus ownership
+Gdk-Message: 20:07:38.365: evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 20:07:38.365: mate-maximus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+** (process:2542): WARNING **: 20:07:38.366: exiting: service couldn't acquire, or lost ownership of, busname
+
+(process:2569): indicator-sound-WARNING **: 20:07:38.370: Name lost or unable to acquire bus: com.canonical.indicator.sound
+
+(process:2527): indicator-application-service-WARNING **: 20:07:38.371: Name Lost
+Gdk-Message: 20:07:38.372: mate-settings-daemon: Fatal IO error 9 (Bad file descriptor) on X server :0.
+

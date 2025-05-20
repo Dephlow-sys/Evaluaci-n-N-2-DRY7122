@@ -1,0 +1,9 @@
+[2025-05-20 20:41:39.442] [sharedprocess] [info] main {"machineId":"0f1004c9f317ea45e0000d9428a52fcc270f3da6293ed91f672f86175ae4829a","windowId":2}
+[2025-05-20 20:41:39.494] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/devasc/.config/Code/User/snippets'
+[2025-05-20 20:41:44.043] [sharedprocess] [info] Installing extension: ms-python.python
+[2025-05-20 20:41:55.524] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/6f0ea73c-e6f7-4b95-8d43-b737c0f928db
+[2025-05-20 20:41:59.869] [sharedprocess] [info] Extracted extension to /home/devasc/.vscode/extensions/.ms-python.python-2020.6.91350: ms-python.python
+[2025-05-20 20:41:59.870] [sharedprocess] [info] Renamed to /home/devasc/.vscode/extensions/ms-python.python-2020.6.91350
+[2025-05-20 20:41:59.874] [sharedprocess] [info] Installation completed. ms-python.python
+[2025-05-20 20:41:59.893] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2025-05-20 20:42:19.475] [sharedprocess] [info] Starting to clean up unused language packs.

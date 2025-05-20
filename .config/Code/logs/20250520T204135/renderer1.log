@@ -1,0 +1,9 @@
+[2025-05-20 20:43:24.967] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///snap/code/34/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3371:362)
+    at e._provideLinks (file:///snap/code/34/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4290:723)
+    at e.provideLinks (file:///snap/code/34/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3370:508)
+    at /snap/code/34/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242351
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/snap/code/34/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242213)
+    at t._onHover (/snap/code/34/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:241908)
+    at t._onMouseMove (/snap/code/34/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:241768)
